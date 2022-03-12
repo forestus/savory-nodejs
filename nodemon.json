@@ -1,0 +1,3 @@
+{
+  "ignore": ["savory.json", "node_modules/*"]
+}
